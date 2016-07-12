@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a6128326-73a4-4043-9f67-0ac6cc109a03" name="profhmao.ru" url="http://profhmao.ru">
+        <fileTransfer host="profhmao.ru" port="2222" accessType="SFTP" password="dfdadfd8dfc5dfdadfd8dfc5dfc8dfc3dfd8dfc1dfcb" username="root">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="2222" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,13 @@
+<?
+require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
+$APPLICATION->SetTitle("WSTransferPlan");
+?>
+<?
+$APPLICATION->IncludeComponent(
+    "WS:TransferPlan",
+    "",
+    Array(
+    )
+);
+?>
+<?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>

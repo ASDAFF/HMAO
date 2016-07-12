@@ -1,0 +1,53 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"О регионе", 
+		"/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Образовательные организации", 
+		"/region-info/edu-organizations/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Специальности", 
+		"/region-info/specialties/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	/*Array(
+		"Работодателям", 
+		"/employers/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Выпускникам", 
+		"/graduates/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Студентам", 
+		"/students/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Социальные партнёры", 
+		"#", 
+		Array(), 
+		Array(), 
+		"" 
+	)*/
+);
+?>

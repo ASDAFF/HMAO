@@ -1,0 +1,14 @@
+$inn='1111111111';
+$year='?';
+$EntranceTests['0']['IdAbiturient']='120';
+$EntranceTests['0']['Test']='Русский язык';
+$EntranceTests['0']['Ball']='5';
+$EntranceTests['0']['Appear']='0';
+$EntranceTests['0']['DateTest']='2016-06-02T00:00:00';
+$EntranceTests['0']['From']='Диктант';
+$EntranceTests['1']['IdAbiturient']='279';
+$EntranceTests['1']['Test']='Русский';
+$EntranceTests['1']['Ball']='4';
+$EntranceTests['1']['Appear']='0';
+$EntranceTests['1']['DateTest']='2016-06-02T00:00:00';
+$EntranceTests['1']['From']='Диктант';

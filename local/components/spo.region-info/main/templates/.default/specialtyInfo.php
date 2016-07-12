@@ -1,0 +1,10 @@
+<? if (!defined("B_PROLOG_INCLUDED") || B_PROLOG_INCLUDED!==true) die();?>
+
+<?$APPLICATION->IncludeComponent(
+    "spo.region-info:specialty.info",
+    "",
+    Array(
+        'specialtyId' => $arResult['VARIABLES']['specialtyId'],
+    ),
+    $component
+);?>
